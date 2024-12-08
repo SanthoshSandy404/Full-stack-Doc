@@ -1,0 +1,93 @@
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1,li,ul{
+    display: inline;
+}
+ul{
+    padding-left: 60%;
+}
+center{
+    margin-top: 50px;
+    
+}
+li{
+    color: grey;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 50%;
+    height: 5%;
+    padding: 2%;
+    display: inline-block;
+}
+
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 220px;
+}
+.Products{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-left: 20px;   
+    
+}
+
+.About{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-left: 20px; 
+    text-align: center;
+
+
+}
+.box:hover{
+    background-color: black;
+    color: wheat;
+}
+.Products:hover{
+    background-color: black;
+    color: wheat;
+}
+.About:hover{
+    background-color: black;
+    color: wheat;
+}
+
+.ab:hover{
+    background-color: black;
+    color:rgb(249, 245, 245);
+    cursor: pointer;
+
+}
+
+.bc:hover{
+    background-color: black;
+    color:rgb(249, 245, 245);
+    cursor: pointer;
+
+}
+.dd:hover{
+    background-color: black;
+    color:rgb(249, 245, 245);
+    cursor: pointer;
+
+}
+
